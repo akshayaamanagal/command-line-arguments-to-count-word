@@ -20,8 +20,6 @@ Anaconda - Python 3.7
 ## PROGRAM:
 
 ### OUTPUT:
-
-
-
+![countcommentline](https://user-images.githubusercontent.com/119389066/214788275-36f500ca-226a-40d2-8b13-a206bc8f41ad.png)
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
